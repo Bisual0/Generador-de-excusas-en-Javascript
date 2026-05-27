@@ -1,6 +1,6 @@
 
-let quien = ["El Maxi", "El Vicente", "El Antonio", "El Joaquin"];
-let accion = ["mordio", "aplasto", "se comio", "orino", "me robo"];
+let quien = ["El Agustin", "Mi abuela", "Mi perro", "Mi hermano", "Mi Papa"];
+let accion = ["mordio", "me aplasto", "se comio", "me quemo", "me robo"];
 let queCosa = ["la tarea", "mi celular", "mi auto", "mis zapatos", "mi cuaderno"];
 let cuando = ["en la mañana" , "mientras caminaba", "mientras dormia", "hace 2 meses", "anoche"] ;
 
@@ -23,4 +23,4 @@ function GeneradorExcusas(){
 
 GeneradorExcusas();
 
-setInterval(GeneradorExcusas, 3000)
+setInterval(GeneradorExcusas, 2000)
